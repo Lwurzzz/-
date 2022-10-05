@@ -1,0 +1,117 @@
+body{
+    margin: auto;
+}
+
+.left {
+    font-family: "Calibri";
+    float: right;
+    word-spacing: 12px;
+    letter-spacing: 3px;
+    font-size: 12px;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+
+.what {
+    text-decoration: none;
+    color: #87929a;
+}
+
+.right {
+    float: left;
+    margin-left: 50px;
+    color: #87929a;
+}
+
+header {
+    background: #f8f8f8;
+    margin: 0px;
+    padding: 0;
+    right: 1px;
+    left: 1px;
+    top: 0px;
+    height: 50px;
+}
+
+.one {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: #1bbc9b;
+    color: white;
+}
+
+.puteshestv{
+    padding-top: 20px;
+
+}
+
+.bird {
+    border-radius: 1000px;
+}
+
+.info {
+    background: #474e5e;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height:25px;
+}
+.inform{
+    color:white;
+    text-align: center;
+}
+
+.whoami{
+    text-align: center;
+    color: white;
+    margin-bottom: 45px;
+}
+
+.knopka {
+    color: black;
+    padding-top: 6px;
+    text-align: center;
+    height: 32px;
+    width: 80px;
+    background: white;
+    border-radius: 7px;
+    margin: 0 auto;
+    display: block;
+    text-decoration: none;
+}
+
+.Where{
+    text-align: center;
+    padding-top: 60px;
+    color: #474e5d;
+}
+
+.section{
+    color: #474e5d;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+
+.section1{
+    padding: 12px;
+}
+
+table{
+    text-align: center;
+    width: 250px;
+    margin: auto;
+}
+
+
+footer{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #2f2f2f;
+    color: white;
+}
+.afooter{
+    color: blue;
+    text-decoration: none;
+}
